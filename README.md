@@ -31,7 +31,7 @@ Data prep was completed using Python in JupyterLab. Data visualization was done 
 | Assignemnt - Building a Dashboard          | Final assignment instructions                                                  |
 | Capstone Dashboard.twb                     | Tableau workbook containaing analysis                                          |
 | Capstone Dashboard.tbwx                    | Tableau packaged workbook containing data and analysis                         |
-| Capstone Presentation                      | Microsoft PowerPoint containing final project recap and findings               |
+| Capstone Presentation                      | Microsoft PowerPoint containing final project recap and findings, saved as PDF |
 
 
 </br>
